@@ -1,5 +1,7 @@
 # YuccaInfo GED Backend
 
+### Challenge Name: Développer une version innovante d’un système GED (Gestion Electronique de Documents) intelligent, orienté data science
+
 A Document Management System (GED - Gestion Électronique des Documents) backend built with Django REST Framework that provides document storage, organization, and intelligent classification services.
 
 ## Overview
