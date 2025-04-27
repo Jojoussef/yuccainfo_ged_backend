@@ -152,4 +152,8 @@ To contribute to this project:
 
 ## License
 
-[Your license information]
+Copyright © 2025 Youssef Benatti. All rights reserved.
+
+This software and associated documentation files are the exclusive property of Youssef Benatti. All rights, title, and interest in and to this software belong solely to Youssef Benatti.
+
+No part of this software may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of Youssef Benatti.
